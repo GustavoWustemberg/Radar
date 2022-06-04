@@ -1,0 +1,18 @@
+C:\Users\Mateus Moreira\Documents\SharpDevelop Projects\radar\radar\obj\Debug\radar.csprojResolveAssemblyReference.cache
+C:\Users\Mateus Moreira\Documents\SharpDevelop Projects\radar\radar\obj\Debug\radar.MainForm.resources
+C:\Users\Mateus Moreira\Documents\SharpDevelop Projects\radar\radar\obj\Debug\radar.csproj.GenerateResource.Cache
+C:\Users\Mateus Moreira\Documents\SharpDevelop Projects\radar\radar\bin\Debug\radar.exe.config
+C:\Users\Mateus Moreira\Documents\SharpDevelop Projects\radar\radar\bin\Debug\radar.exe
+C:\Users\Mateus Moreira\Documents\SharpDevelop Projects\radar\radar\bin\Debug\radar.pdb
+C:\Users\Mateus Moreira\Documents\SharpDevelop Projects\radar\radar\obj\Debug\radar.exe
+C:\Users\Mateus Moreira\Documents\SharpDevelop Projects\radar\radar\obj\Debug\radar.pdb
+C:\Users\gusta\OneDrive\Documentos\SharpDevelop Projects\radar\radar\bin\Debug\radar.exe.config
+C:\Users\gusta\OneDrive\Documentos\SharpDevelop Projects\radar\radar\bin\Debug\radar.exe
+C:\Users\gusta\OneDrive\Documentos\SharpDevelop Projects\radar\radar\bin\Debug\radar.pdb
+C:\Users\gusta\OneDrive\Documentos\SharpDevelop Projects\radar\radar\obj\Debug\radar.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\SharpDevelop Projects\radar\radar\obj\Debug\radar.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\OneDrive\Documentos\SharpDevelop Projects\radar\radar\obj\Debug\radar.MainForm.resources
+C:\Users\gusta\OneDrive\Documentos\SharpDevelop Projects\radar\radar\obj\Debug\radar.csproj.GenerateResource.cache
+C:\Users\gusta\OneDrive\Documentos\SharpDevelop Projects\radar\radar\obj\Debug\radar.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\SharpDevelop Projects\radar\radar\obj\Debug\radar.exe
+C:\Users\gusta\OneDrive\Documentos\SharpDevelop Projects\radar\radar\obj\Debug\radar.pdb
